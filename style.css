@@ -11,7 +11,7 @@ body{
 nav{
 	 background-color:#1b1b1b;
          width:150%;
-	border:1px solid red;
+	border:2px solid red;
    }	
 nav:after{
 	       content:'';
