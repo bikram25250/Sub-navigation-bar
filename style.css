@@ -10,7 +10,7 @@ body{
     } 
 nav{
 	 background-color:#1b1b1b;
-         text-align:right;
+         width:100% auto;
    }	
 nav:after{
 	       content:'';
@@ -74,7 +74,7 @@ nav ul li:hover > ul{
 nav ul ul li{
 	          position:relative;
 			  margin:0px;
-			  width:100%;
+			  width:200px;
 
 			  float:none;
 			  display:list-itembikram25250/Nav
