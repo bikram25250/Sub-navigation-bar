@@ -9,8 +9,8 @@ body{
 	  background-color:#f2f2f2;
     } 
 nav{
-	 background-color:#1b1b1b;
-         width:100%;
+	 background-color:/*#1b1b1b*/red;
+         width:200%;
    }	
 nav:after{
 	       content:'';
