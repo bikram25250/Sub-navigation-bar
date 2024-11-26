@@ -11,7 +11,7 @@ body{
 nav{
 	 background-color:#1b1b1b;
 	display:flex;
-	 justify-content:space-between;
+	 /*justify-content:space-between;*/
          width:100%;
 	
    }	
@@ -30,7 +30,8 @@ nav:after{
 		 
         }		 
 nav ul{
-	    float:right;
+	justify-content:end;
+	       float:right;
 		list-style:none;
 		margin-right:40px;
 		position:relative;
