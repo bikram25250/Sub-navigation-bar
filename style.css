@@ -10,8 +10,7 @@ body{
     } 
 nav{
 	 background-color:#1b1b1b;
-	 display:flex;
-	align-items:left;
+         text-align:right;
    }	
 nav:after{
 	       content:'';
