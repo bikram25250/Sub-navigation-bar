@@ -10,7 +10,7 @@ body{
     } 
 nav{
 	 background-color:/*#1b1b1b*/red;
-         width:200%;
+         width:100% auto;
    }	
 nav:after{
 	       content:'';
