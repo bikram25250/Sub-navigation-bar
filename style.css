@@ -16,7 +16,7 @@ nav{
 	
    }	
 nav:after{
-	       content:'';
+	       /*content:'';*/
 		   clear:both;
 		   display:table;
 		 }  
@@ -30,7 +30,6 @@ nav:after{
 		 
         }		 
 nav ul{
-	justify-content:end;
 	       float:right;
 		list-style:none;
 		margin-right:40px;
