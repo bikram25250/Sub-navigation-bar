@@ -99,9 +99,12 @@ nav ul ul ul li{
        }
 .image-laptop{
 	           width:100%;
-			   height:50%;
-			   
-             }	   
+			   height:50%; 
+             }	  
+.image1text{
+	margin-top:-180px;
+	text-align:center;
+}			 
 
 
 
