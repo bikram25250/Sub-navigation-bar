@@ -95,7 +95,10 @@ nav ul ul ul li{
                }
 /* =============================== Part of image (laptop image) ================================*/
 	 
-
+.laptop_image{
+	width:100%;
+	height:40%;
+}
 
 
 
